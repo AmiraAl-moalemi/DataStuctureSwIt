@@ -6,9 +6,4 @@ public class Lap1 {
     }
 
 
-
-
-
-
-
 //https://github.com/AmiraAl-moalemi/DataStuctureSwIt.git
