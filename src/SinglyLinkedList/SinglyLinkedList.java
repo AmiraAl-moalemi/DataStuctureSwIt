@@ -5,7 +5,6 @@ public class SinglyLinkedList<E> {
     private Node<E> tail=null;
     private int size=0;
 
-
     public int size(){
         return size;
     }
@@ -13,8 +12,6 @@ public class SinglyLinkedList<E> {
     public boolean isEmpty(){
         return size()==0;
     }
-
-
     public void addFirst(E data){
         Node<E> newNode= new Node(data,head);
         head=newNode;
@@ -56,8 +53,6 @@ public class SinglyLinkedList<E> {
             return null;
         }
         return tail.getData();
-
-
     }
 
     public E removeLast(){
@@ -98,8 +93,6 @@ public class SinglyLinkedList<E> {
             this.data = data;
             this.next = next;
         }
-
-
         public E getData() {
             return data;
         }
@@ -108,14 +101,11 @@ public class SinglyLinkedList<E> {
 
             this.data = data;
         }
-
         public Node<E> getNext() {
             return next;
         }
-
         public void setNext(Node<E> next) {
             this.next = next;
         }
     }
-
 }
