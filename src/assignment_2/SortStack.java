@@ -16,4 +16,4 @@ public class SortStack {
         }
         return tempStack;
     }
-}
+}//O(n^2)

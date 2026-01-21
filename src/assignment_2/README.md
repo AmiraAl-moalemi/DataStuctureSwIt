@@ -14,8 +14,8 @@
 مناسبة للرسوم البيانية الكثيفة.
 
 ==================================================================
-name: Amira Noman Al-moalemi
-Group: SWE
-Data Structures Assignment_1
-ملاحظة : هندسة برمجيات بحضر مع مجموعة It
+* name: Amira Noman Al-moalemi
+* Group: SWE
+* Data Structures Assignment_1
+* ملاحظة : هندسة برمجيات بحضر مع مجموعة It
 

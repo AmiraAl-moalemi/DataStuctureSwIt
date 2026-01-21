@@ -16,4 +16,4 @@ public class ReverseQueue {
             queue.add(stack.pop());
         }
     }
-}
+}//O(n)
